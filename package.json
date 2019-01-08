@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/LilyDa08/node_first_app#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "gulp": "^4.0.0",
+    "jsonfile": "^5.0.0"
+  },
+  "devDependencies": {
+    "sw-precache": "^5.2.1"
   }
 }
